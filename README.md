@@ -1,0 +1,1 @@
+`jython main.py` to execute. Just some simplification to test changes to metaprogram Nammu's Menu action delegation. Trying to simplify amount of copypasta when creating menu items as per pull request comments.
